@@ -17,7 +17,7 @@ author = "Masato Nakamura"
 intro = "Backend Engineer"
 description = "Toreta Inc"
 authorimage = "profile.jpg"
-dateformat = "Jan. 2016"
+dateformat = "Monday, Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
