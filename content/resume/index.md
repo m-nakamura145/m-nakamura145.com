@@ -11,7 +11,7 @@ masato.nakamura145@gmail.com
 ### Experience
 
 #### Backend Engineer | Toreta, Inc.
-Tokyo, Japan 2016/10 - Current
+Tokyo, Japan Oct. 2016 - Current
 
 * Worked with customer success team to find and solve customers' problems
 * Built internal dashboards with the customer success team, and developed significant features on internal services to improve its operation
@@ -20,13 +20,13 @@ Tokyo, Japan 2016/10 - Current
 * Refactored database tables with more than 40 million records on MySQL to improve quality of our data
 
 #### Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
-Tokyo, Japan 2015/4 - 2016/9
+Tokyo, Japan Apr. 2015 - Sep. 2016
 
 * Investigated logs and found a bug where middleware unintentionally delete Cookie, and fixed the bug that our application unintentionally logs out
 * Implemented Closure Table Model using Ruby on Rails on MySQL to make tree structure
 
 #### Sofware Engineer Intern | Cookpad Inc.
-Tokyo, Japan 2014/6 - 2014/12
+Tokyo, Japan Jun. 2014 - Dec. 2014
 
 * Implemented API for Web Client using Ruby on Rails with design teams to increase the number of paid members
 
