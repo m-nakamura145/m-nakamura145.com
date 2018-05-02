@@ -16,7 +16,7 @@ theme = "goa"
 author = "Masato Nakamura"
 intro = "Backend Engineer"
 description = "Toreta Inc"
-authorimage = "profile.jpg"
+authorimage = "profile.webp"
 dateformat = "Monday, Jan 2, 2006"
 
 ## Site Meta Settings
