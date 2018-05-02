@@ -1,0 +1,44 @@
+## Basic Configuration
+baseurl = "/"
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Masato Nakamura"
+title = "Masato Nakamura"
+
+theme = "goa"
+
+## Site Settings
+[params]
+author = "Masato Nakamura"
+intro = "Backend Engineer"
+description = "Toreta Inc"
+authorimage = "profile.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "m-nakamura145's website"
+keywords = "engineer,backend,developer"
+
+## Social Accounts
+[params.social]
+github = "m-nakamura145"
+instagram = "m_nakamura145"
+linkedin = "masato-nakamura-1081ab115"
+twitter = "m_nakamura145"
+facebook = "masato.nakamura.7967"
+medium = "@m_nakamura145"
+email = "masato.nakamura145@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Masato Nakamura. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
