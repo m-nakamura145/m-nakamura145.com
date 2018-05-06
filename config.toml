@@ -1,6 +1,7 @@
 ## Basic Configuration
 baseurl = "/"
 languageCode = "en-US"
+enableRobotsTXT = "true"
 
 contentdir = "content"
 layoutdir = "layouts"
