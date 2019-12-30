@@ -39,3 +39,6 @@ hrefTargetBlank = true
 
 [params.sections_left]
 "/about" = "About"
+
+[markup.goldmark.renderer]
+  unsafe = true
