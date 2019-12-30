@@ -11,6 +11,8 @@ author: "m-nakamura145"
 
 [danger](https://github.com/danger/danger)は設定したリポジトリにPull Requestが作成された後に様々なcode reviewを行うgemです。
 
+<!--more-->
+
 dangerはPlugin構造になっており、[danger-mention](https://github.com/danger/danger-mention)や[danger-rubocop](https://github.com/ashfurrow/danger-rubocop)などのpluginが作られています。トレタではtoreta-railsというメインAPIリポジトリでdangerを使ってbotに最低限のcode reviewを任せています。
 
 このdangerをCircleCIで動かすときに少しハマるポイントがあります。

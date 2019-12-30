@@ -11,6 +11,8 @@ author: "m-nakamura145"
 
 [Algolia](https://www.algolia.com/)という検索SaaSをコマンドラインから操作できる[algolia-indices](https://github.com/m-nakamura145/algolia-indices)というgemを作りました。
 
+<!--more-->
+
 Algoliaは高機能な検索機能を提供しているSaaSです。データを入れてクエリを投げるといい感じの検索結果が返ってきます。かなり細かく検索方法をカスタマイズできるので詳しくは[document](https://www.algolia.com/doc/)を確認してください。
 
 algolia-indicesでサポートしているコマンドは

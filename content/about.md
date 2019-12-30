@@ -11,6 +11,8 @@ menu: "main"
 
 Masato Nakamura
 
+<!--more-->
+
 masato.nakamura145@gmail.com
 
 ### Experience
