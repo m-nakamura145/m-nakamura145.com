@@ -1,6 +1,6 @@
 ---
 title: "Algoliaのコマンドラインツールを作りました"
-date: 2019-11-22T01:14:27+09:00
+date: 2018-11-22T01:14:27+09:00
 description: ""
 categories: []
 tags: ["ruby", "algolia"]
