@@ -3,7 +3,7 @@ title: "2018年振り返り"
 date: 2018-12-31T01:38:59+09:00
 description: ""
 categories: []
-tags: []
+tags: ["retrospective"]
 draft: false
 image: ""
 author: "m-nakamura145"
