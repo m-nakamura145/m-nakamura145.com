@@ -2,47 +2,23 @@
 baseurl = "/"
 languageCode = "en-US"
 enableRobotsTXT = "true"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-author = "Masato Nakamura"
-title = "Masato Nakamura"
-
-theme = "goa"
+theme = "kiss"
+title = "m-nakamura145"
+copyright = "© 2020 Masato Nakamura"
 
 ## Site Settings
-[params]
-author = "Masato Nakamura"
-intro = "Backend Engineer"
-description = "Toreta Inc"
-authorimage = "profile.jpg"
-dateformat = "Monday, Jan 2, 2006"
-
-## Site Meta Settings
-[params.meta]
-description = "m-nakamura145's website"
-keywords = "engineer,backend,developer"
+[params.info]
+enableSocial = true # Adds OpenGraph and Twitter cards
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
 
 ## Social Accounts
 [params.social]
 github = "m-nakamura145"
-instagram = "m_nakamura145"
 linkedin = "masato-nakamura-1081ab115"
 twitter = "m_nakamura145"
-facebook = "masato.nakamura.7967"
 email = "masato.nakamura145@gmail.com"
 
-## Extras
-[params.extra]
-copyright = "© 2018. Masato Nakamura. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = false
-highlightjs = true
-
-## Main Menu
-[[menu.main]]
-    name = "resume"
-    weight = 100
-    identifier = "resume"
-    url = "/resume/"
+[params.social.config]
+platforms = ["github","twitter","linkedin","email"]
