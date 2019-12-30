@@ -1,7 +1,12 @@
 ---
-title: "Resume"
-date: 2018-12-15T21:26:08+09:00
+title: "About"
+description: ""
+categories: []
+tags: []
 draft: false
+image: ""
+author: "m-nakamura145"
+menu: "main"
 ---
 
 Masato Nakamura

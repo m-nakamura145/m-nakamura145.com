@@ -1,14 +1,22 @@
 ## Basic Configuration
-baseurl = "/"
+baseurl = "https://www.m-nakamura145.com/"
 languageCode = "en-US"
 enableRobotsTXT = "true"
 theme = "kiss"
 title = "m-nakamura145"
 copyright = "© 2020 Masato Nakamura"
+Paginate = 5 # Number of posts per page
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[permalinks]
+  post = "post/:year/:month/:day/:filename/"
 
 ## Site Settings
 [params.info]
 enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "m-nakamura145" # Title for home page
 poweredby = true # Adds powered by hugo and kiss below Copyright
 related = true # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
@@ -22,3 +30,12 @@ email = "masato.nakamura145@gmail.com"
 
 [params.social.config]
 platforms = ["github","twitter","linkedin","email"]
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params.sections_left]
+"/about" = "About"
