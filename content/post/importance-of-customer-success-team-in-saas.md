@@ -3,7 +3,7 @@ title: "SaaSにおけるカスタマーサクセスチームの重要性"
 date: 2018-11-18T01:04:17+09:00
 description: ""
 categories: []
-tags: []
+tags: ["saas"]
 draft: false
 image: ""
 author: "m-nakamura145"

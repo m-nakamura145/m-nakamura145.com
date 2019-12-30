@@ -3,7 +3,7 @@ title: "飲食店向けSaaSを運営するためのチーム構成"
 date: 2018-11-17T23:34:03+09:00
 description: ""
 categories: []
-tags: []
+tags: ["saas"]
 draft: false
 image: ""
 author: "m-nakamura145"

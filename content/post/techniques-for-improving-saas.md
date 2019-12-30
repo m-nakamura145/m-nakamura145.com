@@ -3,8 +3,8 @@ title: "開発チームだけで機能開発を行わないSaaSサービス改�
 date: 2018-11-19T01:09:16+09:00
 description: ""
 categories: []
-tags: []
-draft: true
+tags: ["saas"]
+draft: false
 image: ""
 author: "m-nakamura145"
 ---
