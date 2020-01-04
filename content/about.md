@@ -15,40 +15,41 @@ Masato Nakamura
 
 masato.nakamura145@gmail.com
 
+- GitHub: [https://github.com/m-nakamura145](https://github.com/m-nakamura145)
+- Programming languages: Ruby, Go
+
 ### Experience
+
+#### Site Reliability Engineer | Toreta, Inc.
+Tokyo, Japan Feb. 2019 - Current
+
+Middleware Upgrade: Upgraded Ruby from 2.3 to 2.6 and Rails from 4.2 to 6.0 realizing more productive Rails app development process.
+
+Job Queue: Designed current Job Queue architecture. Batch execution is stable even when the number of jobs increased significantly. Achieved significant performance improvements when executing batches.
+
+Engineering Onboarding: Designed Engineering Onboarding Process and trained all engineers. It is designed to help engineers understand how each API works.
 
 #### Backend Engineer & Team Lead | Toreta, Inc.
 Tokyo, Japan Oct. 2016 - Current
 
-* Leading the Core API team and managed the release schedule of the API to improve quality of service
-* Built scalable microservices API for iOS, Web Client using Ruby on Rails and Golang to integrate more than 10 services
-* Built distributed batch environments using Sidekiq to provide our data to customers.
-* Built and maintained the infrastructure for microservices using kubernetes to make application developers easier to maintain our infrastructure
-* Refactored database tables with more than 100 million records on MySQL to improve quality of our data
-* Worked with customer success team to find and solve customers' problems
-* Built internal dashboards with the customer success team, and developed significant features on internal services to improve its operation
+Worked on API platform as a team lead in Backend team. Led various projects in many areas including core models, microservices, data migration, authentication, internationalization, and release management.
+
+Core Model: Designed and implemented current inventory model using cache. Achieved significant performance improvements when requesting inventory. 
+
+Microservices: Designed and implemented current microservices architecture. It is designed to clarify the responsibilities of each API so that each team can easily develop independently.
 
 #### Backend Engineer & Team Lead | Recruit Holdings Co., Ltd.
 Tokyo, Japan Apr. 2015 - Sep. 2016
 
-* Investigated logs and found a bug where middleware unintentionally delete Cookie, and fixed the bug that our application unintentionally logs out
-* Implemented Closure Table Model using Ruby on Rails on MySQL to make tree structure
-
-#### Sofware Engineer Intern | Cookpad Inc.
-Tokyo, Japan Jun. 2014 - Dec. 2014
-
-* Implemented API for Web Client using Ruby on Rails with design teams to increase the number of paid members
+Worked on many projects and shipped a lot of features for AirWAIT.
 
 ### Education
 Master of Engineering, Computer Science. University of Tsukuba - Tsukuba, Japan
 
 ### Skills
 
-#### Programming Language・Framework
-Ruby(expert), SQL(advanced), Go(advanced), Java(intermediate), Ruby On Rails(expert), Spring Framework(intermediate)
-
 #### Database
 MySQL, Amazon Aurora, Google Cloud SQL(advanced), PostgreSQL(intermediate)
 
-#### Middleware・Infrastructure
-CircleCI, Jenkins, New Relic, Mackerel, Datadog, Amazon EC2, S3, SNS, Google BigQuery, GCE, GKE, GCR, Stackdrive Logging, Algolia
+#### Framework・Middleware・Infrastructure
+Ruby On Rails(advanced), CircleCI, New Relic, Datadog, Amazon EC2, EKS, S3, Google BigQuery, GKE, Algolia, Heroku
