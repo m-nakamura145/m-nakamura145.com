@@ -20,8 +20,12 @@ masato.nakamura145@gmail.com
 
 ### Experience
 
+#### Solutions Architect | Box, Inc.
+Tokyo, Japan Jul. 2020 - Current
+
+
 #### Site Reliability Engineer | Toreta, Inc.
-Tokyo, Japan Feb. 2019 - Current
+Tokyo, Japan Feb. 2019 - Jul. 2020
 
 Middleware Upgrade: Upgraded Ruby from 2.3 to 2.6 and Rails from 4.2 to 6.0 realizing more productive Rails app development process.
 
@@ -30,7 +34,7 @@ Job Queue: Designed current Job Queue architecture. Batch execution is stable ev
 Engineering Onboarding: Designed Engineering Onboarding Process and trained all engineers. It is designed to help engineers understand how each API works.
 
 #### Backend Engineer & Team Lead | Toreta, Inc.
-Tokyo, Japan Oct. 2016 - Current
+Tokyo, Japan Oct. 2016 - Jul. 2020
 
 Worked on API platform as a team lead in Backend team. Led various projects in many areas including core models, microservices, data migration, authentication, internationalization, and release management.
 
