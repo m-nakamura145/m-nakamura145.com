@@ -23,6 +23,7 @@ masato.nakamura145@gmail.com
 #### Solutions Architect | Box, Inc.
 Tokyo, Japan Jul. 2020 - Current
 
+As a Solutions Architect, I work directly with our customers, pre- and post-sale, to define and build out complex solutions using Box services and platform. I play a critical role in building and sustaining customer and partner relationships while driving the adoption of our product and platform.
 
 #### Site Reliability Engineer | Toreta, Inc.
 Tokyo, Japan Feb. 2019 - Jul. 2020
