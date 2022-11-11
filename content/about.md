@@ -8,7 +8,7 @@ masato.nakamura145@gmail.com
 ### Experience
 
 #### Partner Solutions Engineer | Cloudflare, Inc.
-Tokyo, Japan Aug. 2022 - Current
+Tokyo, Japan Aug. 2022 - Oct. 2022
 
 
 #### Solutions Architect | Box, Inc.
