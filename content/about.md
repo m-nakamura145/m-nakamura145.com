@@ -1,6 +1,6 @@
 Masato Nakamura
 
-masato.nakamura145@gmail.com
+masato@m-nakamura145.com
 
 - GitHub: [https://github.com/m-nakamura145](https://github.com/m-nakamura145)
 - Programming languages: Ruby

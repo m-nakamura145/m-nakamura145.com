@@ -26,7 +26,7 @@ codeCopy = true # Add copy button above code blocks
 github = "m-nakamura145"
 linkedin = "masato-nakamura-1081ab115"
 twitter = "m_nakamura145"
-email = "masato.nakamura145@gmail.com"
+email = "masato@m-nakamura145.com"
 
 [params.social.config]
 platforms = ["github","twitter","linkedin","email"]
